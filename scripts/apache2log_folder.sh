@@ -1,4 +1,4 @@
-DIR="/home/gisadmin/networks/kvwmap_prod/services/web/logs"
+DIR="/home/gisadmin/networks/kvwmap_prod/services/web/log"
 
 if [ -d "$DIR" ]; then
   echo  "'$DIR' directory is exist"
